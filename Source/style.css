@@ -1,0 +1,33 @@
+.PageContainer
+{
+	/*border: 1px solid;*/
+	padding: 2% 2%;
+	margin: auto;
+
+	position:absolute;
+    right: 10%;
+    left: 10%;
+}
+
+.frame
+{
+	/* border: 5px solid black; */
+	border: none;
+	width: 100%;
+	margin: auto;
+	height: 100%;
+}
+
+table.table
+{
+	width: 100%;
+	table-layout: fixed;
+	border: 1px solid;
+	padding: 2% 2%;
+	border-radius: 20px;
+}
+
+td.td1
+{
+	width: 20%;
+}
